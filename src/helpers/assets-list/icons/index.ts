@@ -5,6 +5,7 @@ import bal from './bal.svg';
 import bat from './bat.svg';
 import bpt from './bpt.svg';
 import busd from './busd.svg';
+import cast from './cast.svg';
 import crv from './crv.svg';
 import dai from './dai.svg';
 import dpi from './dpi.svg';
@@ -61,6 +62,7 @@ export default {
   ampl,
   busd,
   bat,
+  cast,
   dai,
   eth,
   knc,

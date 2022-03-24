@@ -7,6 +7,7 @@ export const assetsOrder = [
   'MATIC',
   'WMATIC',
   'BUSD',
+  'CAST',
   'DAI',
   'UNIDAI',
   'GUSD',

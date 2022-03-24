@@ -4,6 +4,7 @@ import aavax from './aavax.svg';
 import abal from './abal.svg';
 import abat from './abat.svg';
 import abusd from './abusd.svg';
+import acast from './acast.svg';
 import acrv from './acrv.svg';
 import adai from './adai.svg';
 import adpi from './adpi.svg';
@@ -58,6 +59,7 @@ export default {
   atusd,
   ausdt,
   ausdc,
+  acast,
   adai,
   abusd,
   aeth,

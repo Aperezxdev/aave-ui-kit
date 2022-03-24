@@ -44,6 +44,13 @@ export const assetsList: Asset[] = [
     aIcon: aIcons.abusd,
   },
   {
+    name: 'Casino Token',
+    symbol: 'CAST',
+    color: '#000000',
+    icon: icons.cast,
+    aIcon: aIcons.acast,
+  },
+  {
     name: 'DAI',
     symbol: 'DAI',
     color: '#f7b14a',
